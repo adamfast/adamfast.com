@@ -9,31 +9,11 @@ Welcome! I'm Adam Fast, a passionate software developer with expertise in buildi
 
 ## About Me
 
-I'm a software developer who loves creating elegant solutions to difficult problems. With experience across various technologies and platforms, I focus on writing clean, maintainable code and delivering value through software.
+I'm a software developer who keeps a minimal online presence.
 
-## Skills & Expertise
+I volunteer on the Board of Directors of DEFNA, Django Events Foundation North America, helping to organize the DjangoCon US conference.
 
-- **Languages**: Python, JavaScript, Java, and more
-- **Web Development**: Full-stack development, REST APIs, web frameworks
-- **Software Architecture**: Design patterns, scalable systems, best practices
-- **Tools & Technologies**: Git, Docker, CI/CD, cloud platforms
-
-## What I Do
-
-I specialize in:
-
-- Building web applications from concept to deployment
-- Developing robust backend systems and APIs
-- Writing clean, tested, and maintainable code
-- Solving technical challenges with creative solutions
-- Contributing to open-source projects
-
-## Get In Touch
-
-I'm always interested in connecting with fellow developers and discussing new opportunities. Feel free to reach out through:
-
-- **GitHub**: [github.com/adamfast](https://github.com/adamfast)
-- **LinkedIn**: [linkedin.com/in/adamfast](https://linkedin.com/in/adamfast)
+Django is my favorite web framework, and Python my favorite programming language. I appreciate their ability to allow me to be productive quickly on new ideas and challenges.
 
 ---
 
